@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/LogProcessor.dir/main.cpp.o -o LogProcessor  /usr/lib/x86_64-linux-gnu/libsqlite3.so 

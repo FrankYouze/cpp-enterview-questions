@@ -1,0 +1,23 @@
+2024-11-18 10:01:23 INFO User login: username=admin, ip=192.168.1.10
+2024-11-18 10:02:14 ERROR Database connection failed: host=db-server, port=5432
+2024-11-18 10:05:45 WARNING Memory usage high: usage=95%, server=web-1
+2024-11-18 10:08:12 DEBUG Starting scheduled task: task_id=42
+2024-11-18 10:09:33 INFO File uploaded: filename=report.pdf, size=1.2MB, user=john_doe
+2024-11-18 10:12:50 CRITICAL System shutdown initiated: reason=overheating, temperature=85C
+2024-11-18 10:15:11 INFO New user registration: username=jane_doe, email=jane@example.com
+2024-11-18 10:17:23 DEBUG Processing payment: payment_id=12345, amount=$500
+2024-11-18 10:20:01 INFO User logout: username=jane_doe
+2024-11-18 10:21:42 WARNING Disk space low: server=web-2, remaining=2GB
+2024-11-18 10:25:37 INFO Backup completed: duration=1h12m, files=230
+2024-11-18 10:28:22 ERROR Failed API request: endpoint=/api/v1/users, status=500, user=admin
+2024-11-18 10:30:14 INFO Server started: server=web-3, ip=192.168.1.15
+2024-11-18 10:35:07 CRITICAL Unauthorized access attempt: username=unknown, ip=203.0.113.45
+2024-11-18 10:37:58 DEBUG Cache cleared: cache=auth_tokens, entries=1023
+2024-11-18 10:40:22 WARNING High CPU usage: usage=99%, process=java, server=app-1
+2024-11-18 10:42:33 INFO User password reset requested: username=admin
+2024-11-18 10:45:18 INFO Scheduled maintenance: start=2024-11-20 02:00, duration=2h
+2024-11-18 10:50:27 ERROR Failed login attempt: username=admin, ip=192.168.1.12
+2024-11-18 10:52:41 INFO Email sent: to=jane@example.com, subject="Welcome!"
+2024-11-18 10:55:19 WARNING Network latency detected: latency=150ms, server=web-1
+2024-11-18 10:58:44 INFO Job completed: job_id=77, duration=3h20m, status=success
+2024-11-18 11:00:01 INFO Scheduled task executed: task_id=42, status=completed
